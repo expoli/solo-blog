@@ -33,29 +33,33 @@
 
 ### 热门
 
+* [Nginx静态服务配置--深入理解root与alias指令](https://expoli.tech/articles/2019/07/28/1564656219448.html)
+* [树莓派3一键安装 Arch Linux 脚本](https://expoli.tech/articles/2019/07/27/1564656216746.html)
+* [树莓派3一键安装 Arch Linux 脚本](https://expoli.tech/articles/2019/07/27/1564656217107.html)
+* [My first post](https://expoli.tech/articles/2018/03/27/1564656222810.html)
+* [manjaro pacman 命令介绍](https://expoli.tech/articles/2018/05/01/1564656228747.html)
+* [使用 Openwrt 官方提供的 openwrt-imagebuilder 构建属于自己的 openwrt 镜像](https://expoli.tech/articles/2019/03/22/1564656237381.html)
+* [第一次计算机网络实验报告](https://expoli.tech/articles/2019/03/22/1564656237598.html)
+* [为 Openwrt 添加温度显示功能](https://expoli.tech/articles/2019/03/22/1564656238463.html)
 * [2019-07-26-docker的安装介绍](https://expoli.tech/articles/2019/07/26/1564656214175.html)
 * [future-architect/vuls](https://expoli.tech/articles/2019/07/26/1564656214837.html)
 * [总结之——CentOS7 yum 安装 PHP 7.0, 7.1 & 7.2](https://expoli.tech/articles/2019/07/26/1564656215136.html)
 * [Windows docker Errror mkdir /host_mnt/ file exists](https://expoli.tech/articles/2019/07/27/1564656215566.html)
 * [使用 Docker compose 启动一个 CHEVERETO 图床](https://expoli.tech/articles/2019/07/27/1564656216037.html)
 * [syncthing 使用](https://expoli.tech/articles/2019/07/27/1564656216462.html)
-* [树莓派3一键安装 Arch Linux 脚本](https://expoli.tech/articles/2019/07/27/1564656216746.html)
-* [树莓派3一键安装 Arch Linux 脚本](https://expoli.tech/articles/2019/07/27/1564656217107.html)
 * [2019-07-27-nginx+wordpress-docker镜像获取真实IP](https://expoli.tech/articles/2019/07/27/1564656217457.html)
 * [清除 git身份验证失败的密码缓存](https://expoli.tech/articles/2019/07/27/1564656217885.html)
 * [resolv.conf理解](https://expoli.tech/articles/2019/07/27/1564656218143.html)
 * [2019-07-27-一些常用的Sql语句](https://expoli.tech/articles/2019/07/27/1564656218398.html)
 * [免sudo使用docker命令](https://expoli.tech/articles/2019/07/27/1564656218673.html)
-* [Nginx静态服务配置--深入理解root与alias指令](https://expoli.tech/articles/2019/07/28/1564656219448.html)
 * [nginx 主配置文件 nginx.conf 学习](https://expoli.tech/articles/2019/07/27/1564656221533.html)
-* [A Quick Guide to Using the MySQL Yum Repository](https://expoli.tech/articles/2019/07/27/1564656222094.html)
-* [INSTALL CLAMAV ON CENTOS 7](https://expoli.tech/articles/2019/07/27/1564656222498.html)
-* [My first post](https://expoli.tech/articles/2018/03/27/1564656222810.html)
-* [关于Ubuntu没有声音的解决方法](https://expoli.tech/articles/2018/04/07/1564656223111.html)
-* [Linux多线程下载工具Axel](https://expoli.tech/articles/2018/04/16/1564656223536.html)
 
 ### 热议
 
+* [A Quick Guide to Using the MySQL Yum Repository](https://expoli.tech/articles/2019/07/27/1564656222094.html)
+* [INSTALL CLAMAV ON CENTOS 7](https://expoli.tech/articles/2019/07/27/1564656222498.html)
+* [关于Ubuntu没有声音的解决方法](https://expoli.tech/articles/2018/04/07/1564656223111.html)
+* [Linux多线程下载工具Axel](https://expoli.tech/articles/2018/04/16/1564656223536.html)
 * [nginx 设置目录访问权限](https://expoli.tech/articles/2018/04/16/1564656224308.html)
 * [Ubuntu 安装 nginx](https://expoli.tech/articles/2018/04/16/1564656224516.html)
 * [更改Ubuntu软件镜像源](https://expoli.tech/articles/2018/04/20/1564656224783.html)
@@ -72,10 +76,6 @@
 * [Arch美化——配置oh/my/zsh](https://expoli.tech/articles/2018/04/29/1564656227508.html)
 * [Archlinux开启ssh服务以使用终端登录](https://expoli.tech/articles/2018/04/29/1564656227712.html)
 * [Arch 优秀衍生版 manjaro 设置国内源](https://expoli.tech/articles/2018/04/29/1564656227925.html)
-* [给本子安装 manjaro 出现无法关机的解决办法](https://expoli.tech/articles/2018/04/29/1564656228192.html)
-* [安装manjaro 出现GRUB 恢复模式的解读办法](https://expoli.tech/articles/2018/04/29/1564656228433.html)
-* [manjaro pacman 命令介绍](https://expoli.tech/articles/2018/05/01/1564656228747.html)
-* [解决Windows与Linux双系统时间同步问题](https://expoli.tech/articles/2018/05/02/1564656229474.html)
 
 ---
 
