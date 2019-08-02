@@ -10,8 +10,6 @@
 
 ### 最新
 
-* [服务器备份脚本](https://expoli.tech/articles/2019/08/02/1564714960295.html)
-* [服务器备份脚本](https://expoli.tech/articles/2019/08/02/1564714959469.html)
 * [我在 GitHub 上的开源项目](https://expoli.tech/my-github-repos)
 * [关于我](https://expoli.tech/articles/2019/08/01/1564714954727.html)
 * [使用 docker-compose 编排 zabbix-server](https://expoli.tech/articles/2019/08/01/1564656221752.html)
