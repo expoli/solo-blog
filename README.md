@@ -42,24 +42,22 @@
 * [U盘文件被打印店病毒感染的恢复办法](https://expoli.tech/articles/2018/05/08/1564714955170.html)
 * [服务器日常运行状态报告脚本](https://expoli.tech/articles/2018/10/27/1564656234672.html)
 * [三防漆在PCB板中的作用](https://expoli.tech/articles/2018/10/19/1564656232920.html)
+* [future-architect/vuls](https://expoli.tech/articles/2019/07/26/1564656214837.html)
 * [总结之——CentOS7 yum 安装 PHP 7.0, 7.1 & 7.2](https://expoli.tech/articles/2019/07/26/1564656215136.html)
+* [第二次计算机网络实验报告(待完善)](https://expoli.tech/articles/2019/04/15/1564656238673.html)
 * [第四次计算机网络实验](https://expoli.tech/articles/2019/04/15/1564656239121.html)
+* [手动进行 Ubuntu 版本升级](https://expoli.tech/articles/2019/03/22/1564656238079.html)
 * [使用 Openwrt 官方提供的 openwrt-imagebuilder 构建属于自己的 openwrt 镜像](https://expoli.tech/articles/2019/03/22/1564656237381.html)
 * [懒癌晚期之博客主题 yilia docker 集成镜像](https://expoli.tech/articles/2018/11/17/1564656234922.html)
+* [我的 nginx config 备份](https://expoli.tech/articles/2018/04/06/1564714952931.html)
+* [解决Windows与Linux双系统时间同步问题](https://expoli.tech/articles/2018/05/02/1564656229474.html)
+* [你真的了解USB吗？USB充电大揭秘(二)](https://expoli.tech/articles/2018/10/19/1564656232504.html)
 * [Git 常用命令](https://expoli.tech/articles/2018/10/26/1564656233378.html)
-* [自建 Git server](https://expoli.tech/articles/2018/10/26/1564656233812.html)
-* [Windows 安装 hexo + github:pages](https://expoli.tech/articles/2018/10/26/1564656234016.html)
-* [你真的了解USB吗？USB充电大揭秘(一)](https://expoli.tech/articles/2018/10/19/1564656232302.html)
-* [future-architect/vuls](https://expoli.tech/articles/2019/07/26/1564656214837.html)
-* [2019-07-26-docker的安装介绍](https://expoli.tech/articles/2019/07/26/1564656214175.html)
-* [使用 Docker compose 启动一个 CHEVERETO 图床](https://expoli.tech/articles/2019/07/27/1564656216037.html)
 
 ### 热议
 
 * [第三次计算机网络实验报告](https://expoli.tech/articles/2019/04/15/1564656238929.html)
-* [第二次计算机网络实验报告(待完善)](https://expoli.tech/articles/2019/04/15/1564656238673.html)
 * [第五次计算机网络实验](https://expoli.tech/articles/2019/04/17/1564656239324.html)
-* [手动进行 Ubuntu 版本升级](https://expoli.tech/articles/2019/03/22/1564656238079.html)
 * [Openwrt X86（32位）编译安装笔记](https://expoli.tech/articles/2019/03/14/1564656236948.html)
 * [第一次计算机网络实验报告](https://expoli.tech/articles/2019/03/22/1564656237598.html)
 * [为 Openwrt 添加温度显示功能](https://expoli.tech/articles/2019/03/22/1564656238463.html)
@@ -76,6 +74,8 @@
 * [Linux LS 指令介绍](https://expoli.tech/articles/2018/04/27/1564656226697.html)
 * [给本子安装 manjaro 出现无法关机的解决办法](https://expoli.tech/articles/2018/04/29/1564656228192.html)
 * [Linux 分区方案介绍](https://expoli.tech/articles/2018/04/27/1564656226278.html)
+* [怎样更改Linux的文件权限](https://expoli.tech/articles/2018/04/27/1564656225825.html)
+* [安装 Centos 7 时刚引导成功、就报 python3 错误的解决方案](https://expoli.tech/articles/2018/04/20/1564656224983.html)
 
 ---
 
