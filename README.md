@@ -35,10 +35,10 @@
 
 * [Arch 优秀衍生版 manjaro 设置国内源](https://expoli.tech/articles/2018/04/29/1564656227925.html)
 * [2019-07-27-一些常用的Sql语句](https://expoli.tech/articles/2019/07/27/1564656218398.html)
+* [2019-07-27-nginx+wordpress-docker镜像获取真实IP](https://expoli.tech/articles/2019/07/27/1564656217457.html)
 * [安装manjaro 出现GRUB 恢复模式的解读办法](https://expoli.tech/articles/2018/04/29/1564656228433.html)
 * [一个硬件高手的经验之谈](https://expoli.tech/articles/2018/10/19/1564656232031.html)
 * [在服务器上搭建 Chevereto 图床](https://expoli.tech/articles/2018/10/20/1564656233122.html)
-* [2019-07-27-nginx+wordpress-docker镜像获取真实IP](https://expoli.tech/articles/2019/07/27/1564656217457.html)
 * [2019-07-26-docker的安装介绍](https://expoli.tech/articles/2019/07/26/1564656214175.html)
 * [U盘文件被打印店病毒感染的恢复办法](https://expoli.tech/articles/2018/05/08/1564714955170.html)
 * [服务器日常运行状态报告脚本](https://expoli.tech/articles/2018/10/27/1564656234672.html)
