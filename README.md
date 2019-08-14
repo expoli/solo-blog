@@ -34,8 +34,8 @@
 ### 热门
 
 * [Arch 优秀衍生版 manjaro 设置国内源](https://expoli.tech/articles/2018/04/29/1564656227925.html)
-* [2019-07-27-一些常用的Sql语句](https://expoli.tech/articles/2019/07/27/1564656218398.html)
 * [2019-07-27-nginx+wordpress-docker镜像获取真实IP](https://expoli.tech/articles/2019/07/27/1564656217457.html)
+* [2019-07-27-一些常用的Sql语句](https://expoli.tech/articles/2019/07/27/1564656218398.html)
 * [总结之——CentOS7 yum 安装 PHP 7.0, 7.1 & 7.2](https://expoli.tech/articles/2019/07/26/1564656215136.html)
 * [Openwrt X86（32位）编译安装笔记](https://expoli.tech/articles/2019/03/14/1564656236948.html)
 * [安装manjaro 出现GRUB 恢复模式的解读办法](https://expoli.tech/articles/2018/04/29/1564656228433.html)
@@ -44,6 +44,8 @@
 * [2019-07-26-docker的安装介绍](https://expoli.tech/articles/2019/07/26/1564656214175.html)
 * [第五次计算机网络实验](https://expoli.tech/articles/2019/04/17/1564656239324.html)
 * [懒癌晚期之博客主题 yilia docker 集成镜像](https://expoli.tech/articles/2018/11/17/1564656234922.html)
+* [Arch美化——配置oh/my/zsh](https://expoli.tech/articles/2018/04/29/1564656227508.html)
+* [Archlinux开启ssh服务以使用终端登录](https://expoli.tech/articles/2018/04/29/1564656227712.html)
 * [我的 nginx config 备份](https://expoli.tech/articles/2018/04/06/1564714952931.html)
 * [U盘文件被打印店病毒感染的恢复办法](https://expoli.tech/articles/2018/05/08/1564714955170.html)
 * [Git 常用命令](https://expoli.tech/articles/2018/10/26/1564656233378.html)
@@ -51,8 +53,6 @@
 * [服务器日常运行状态报告脚本](https://expoli.tech/articles/2018/10/27/1564656234672.html)
 * [三防漆在PCB板中的作用](https://expoli.tech/articles/2018/10/19/1564656232920.html)
 * [Windows 安装 hexo + github:pages](https://expoli.tech/articles/2018/10/26/1564656234016.html)
-* [future-architect/vuls](https://expoli.tech/articles/2019/07/26/1564656214837.html)
-* [清除 git身份验证失败的密码缓存](https://expoli.tech/articles/2019/07/27/1564656217885.html)
 
 ### 热议
 
@@ -70,12 +70,12 @@
 * [hexo deploy 提示 'github' does not appear to be a git repository](https://expoli.tech/articles/2018/11/17/1564656235419.html)
 * [ubuntu 18.04 镜像源整合](https://expoli.tech/articles/2018/11/18/1564656236180.html)
 * [nginx 设置目录访问权限](https://expoli.tech/articles/2018/04/16/1564656224308.html)
-* [Arch美化——配置oh/my/zsh](https://expoli.tech/articles/2018/04/29/1564656227508.html)
 * [关于Ubuntu没有声音的解决方法](https://expoli.tech/articles/2018/04/07/1564656223111.html)
 * [Ubuntu 安装 nginx](https://expoli.tech/articles/2018/04/16/1564656224516.html)
 * [Linux LS 指令介绍](https://expoli.tech/articles/2018/04/27/1564656226697.html)
 * [给本子安装 manjaro 出现无法关机的解决办法](https://expoli.tech/articles/2018/04/29/1564656228192.html)
 * [Linux 分区方案介绍](https://expoli.tech/articles/2018/04/27/1564656226278.html)
+* [怎样更改Linux的文件权限](https://expoli.tech/articles/2018/04/27/1564656225825.html)
 
 ---
 
