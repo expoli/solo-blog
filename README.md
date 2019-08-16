@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Windows 开机自启动特定虚拟机](https://expoli.tech/articles/2019/08/15/1565860731902.html)
 * [使用 docker-compose 启动 solo（一键式）](https://expoli.tech/articles/2019/08/02/1564718521702.html)
 * [服务器备份脚本---每天运行版本](https://expoli.tech/articles/2019/08/02/1564714960295.html)
 * [服务器备份脚本---每周运行版本](https://expoli.tech/articles/2019/08/02/1564714959469.html)
@@ -29,10 +30,10 @@
 * [INSTALL CLAMAV ON CENTOS 7](https://expoli.tech/articles/2019/07/27/1564656222498.html)
 * [A Quick Guide to Using the MySQL Yum Repository](https://expoli.tech/articles/2019/07/27/1564656222094.html)
 * [nginx 主配置文件 nginx.conf 学习](https://expoli.tech/articles/2019/07/27/1564656221533.html)
-* [resolv.conf理解](https://expoli.tech/articles/2019/07/27/1564656218143.html)
 
 ### 热门
 
+* [resolv.conf理解](https://expoli.tech/articles/2019/07/27/1564656218143.html)
 * [Arch 优秀衍生版 manjaro 设置国内源](https://expoli.tech/articles/2018/04/29/1564656227925.html)
 * [2019-07-27-nginx+wordpress-docker镜像获取真实IP](https://expoli.tech/articles/2019/07/27/1564656217457.html)
 * [2019-07-27-一些常用的Sql语句](https://expoli.tech/articles/2019/07/27/1564656218398.html)
@@ -52,7 +53,6 @@
 * [自建 Git server](https://expoli.tech/articles/2018/10/26/1564656233812.html)
 * [服务器日常运行状态报告脚本](https://expoli.tech/articles/2018/10/27/1564656234672.html)
 * [三防漆在PCB板中的作用](https://expoli.tech/articles/2018/10/19/1564656232920.html)
-* [Windows 安装 hexo + github:pages](https://expoli.tech/articles/2018/10/26/1564656234016.html)
 
 ### 热议
 
