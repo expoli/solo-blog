@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Jenkins实战-jenkins与gitlab集成（webhook)](https://expoli.tech/articles/2019/08/18/1566118515630.html)
 * [自动化部署学习之——sonar 与 jenkins 结合](https://expoli.tech/articles/2019/08/18/1566110631575.html)
 * [持续集成之Jenkins安装部署](https://expoli.tech/articles/2019/08/18/1566110465770.html)
 * [持续代码质量管理-Sonar部署](https://expoli.tech/articles/2019/08/18/1566110413790.html)
@@ -29,7 +30,6 @@
 * [修改 docker php 镜像增加可上传文件大小](https://expoli.tech/articles/2019/07/30/1564656220499.html)
 * [取消 openwrt 刷固件后强制 https 后台访问](https://expoli.tech/articles/2019/07/30/1564656220231.html)
 * [openwrt 安装 zabbix-agent](https://expoli.tech/articles/2019/07/30/1564656214475.html)
-* [在 centos 上安装 zabbix-agent](https://expoli.tech/articles/2019/07/30/1564656213661.html)
 
 ### 热门
 
@@ -41,9 +41,10 @@
 * [NextCloud 通过不被信任的域名访问](https://expoli.tech/articles/2019/07/29/1564656219723.html)
 * [Arch 优秀衍生版 manjaro 设置国内源](https://expoli.tech/articles/2018/04/29/1564656227925.html)
 * [2019-07-27-nginx+wordpress-docker镜像获取真实IP](https://expoli.tech/articles/2019/07/27/1564656217457.html)
-* [Archlinux开启ssh服务以使用终端登录](https://expoli.tech/articles/2018/04/29/1564656227712.html)
 * [2019-07-27-一些常用的Sql语句](https://expoli.tech/articles/2019/07/27/1564656218398.html)
+* [Archlinux开启ssh服务以使用终端登录](https://expoli.tech/articles/2018/04/29/1564656227712.html)
 * [关闭 Windows Defender Credential Guard](https://expoli.tech/articles/2019/07/29/1564656219981.html)
+* [nginx 设置目录访问权限](https://expoli.tech/articles/2018/04/16/1564656224308.html)
 * [总结之——CentOS7 yum 安装 PHP 7.0, 7.1 & 7.2](https://expoli.tech/articles/2019/07/26/1564656215136.html)
 * [Openwrt X86（32位）编译安装笔记](https://expoli.tech/articles/2019/03/14/1564656236948.html)
 * [安装manjaro 出现GRUB 恢复模式的解读办法](https://expoli.tech/articles/2018/04/29/1564656228433.html)
@@ -52,7 +53,6 @@
 * [2019-07-26-docker的安装介绍](https://expoli.tech/articles/2019/07/26/1564656214175.html)
 * [第五次计算机网络实验](https://expoli.tech/articles/2019/04/17/1564656239324.html)
 * [懒癌晚期之博客主题 yilia docker 集成镜像](https://expoli.tech/articles/2018/11/17/1564656234922.html)
-* [Arch美化——配置oh/my/zsh](https://expoli.tech/articles/2018/04/29/1564656227508.html)
 
 ### 热议
 
@@ -69,7 +69,7 @@
 * [rsync 工具备份服务端配置](https://expoli.tech/articles/2018/11/18/1564656235928.html)
 * [hexo deploy 提示 'github' does not appear to be a git repository](https://expoli.tech/articles/2018/11/17/1564656235419.html)
 * [ubuntu 18.04 镜像源整合](https://expoli.tech/articles/2018/11/18/1564656236180.html)
-* [nginx 设置目录访问权限](https://expoli.tech/articles/2018/04/16/1564656224308.html)
+* [Arch美化——配置oh/my/zsh](https://expoli.tech/articles/2018/04/29/1564656227508.html)
 * [关于Ubuntu没有声音的解决方法](https://expoli.tech/articles/2018/04/07/1564656223111.html)
 * [Ubuntu 安装 nginx](https://expoli.tech/articles/2018/04/16/1564656224516.html)
 * [Linux LS 指令介绍](https://expoli.tech/articles/2018/04/27/1564656226697.html)
