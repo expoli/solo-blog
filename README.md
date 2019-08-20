@@ -5,7 +5,7 @@
 <h4 align="center">🐟生成长记</h4>
 <p align="center"><a title="糖醋鱼的小破站" target="_blank" href="https://github.com/expoli/solo-blog"><img src="https://img.shields.io/github/last-commit/expoli/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/expoli/solo-blog"><img src="https://img.shields.io/github/repo-size/expoli/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/expoli/solo-blog.svg"></a></p>
 
 ### 最新
@@ -46,24 +46,24 @@
 * [关闭 Windows Defender Credential Guard](https://expoli.tech/articles/2019/07/29/1564656219981.html)
 * [nginx 设置目录访问权限](https://expoli.tech/articles/2018/04/16/1564656224308.html)
 * [总结之——CentOS7 yum 安装 PHP 7.0, 7.1 & 7.2](https://expoli.tech/articles/2019/07/26/1564656215136.html)
+* [第五次计算机网络实验](https://expoli.tech/articles/2019/04/17/1564656239324.html)
+* [第四次计算机网络实验](https://expoli.tech/articles/2019/04/15/1564656239121.html)
 * [Openwrt X86（32位）编译安装笔记](https://expoli.tech/articles/2019/03/14/1564656236948.html)
 * [安装manjaro 出现GRUB 恢复模式的解读办法](https://expoli.tech/articles/2018/04/29/1564656228433.html)
 * [一个硬件高手的经验之谈](https://expoli.tech/articles/2018/10/19/1564656232031.html)
 * [在服务器上搭建 Chevereto 图床](https://expoli.tech/articles/2018/10/20/1564656233122.html)
 * [2019-07-26-docker的安装介绍](https://expoli.tech/articles/2019/07/26/1564656214175.html)
-* [第五次计算机网络实验](https://expoli.tech/articles/2019/04/17/1564656239324.html)
-* [懒癌晚期之博客主题 yilia docker 集成镜像](https://expoli.tech/articles/2018/11/17/1564656234922.html)
 
 ### 热议
 
 * [第三次计算机网络实验报告](https://expoli.tech/articles/2019/04/15/1564656238929.html)
 * [第二次计算机网络实验报告(待完善)](https://expoli.tech/articles/2019/04/15/1564656238673.html)
-* [第四次计算机网络实验](https://expoli.tech/articles/2019/04/15/1564656239121.html)
 * [手动进行 Ubuntu 版本升级](https://expoli.tech/articles/2019/03/22/1564656238079.html)
 * [第一次计算机网络实验报告](https://expoli.tech/articles/2019/03/22/1564656237598.html)
 * [为 Openwrt 添加温度显示功能](https://expoli.tech/articles/2019/03/22/1564656238463.html)
 * [Ubuntu Possible missing firmware error](https://expoli.tech/articles/2019/03/22/1564656237880.html)
 * [使用 Openwrt 官方提供的 openwrt-imagebuilder 构建属于自己的 openwrt 镜像](https://expoli.tech/articles/2019/03/22/1564656237381.html)
+* [懒癌晚期之博客主题 yilia docker 集成镜像](https://expoli.tech/articles/2018/11/17/1564656234922.html)
 * [配置ssh登录docker centos](https://expoli.tech/articles/2018/11/17/1564656235228.html)
 * [rsync 工具备份客户端配置](https://expoli.tech/articles/2018/11/18/1564656235627.html)
 * [rsync 工具备份服务端配置](https://expoli.tech/articles/2018/11/18/1564656235928.html)
