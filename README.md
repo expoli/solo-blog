@@ -37,27 +37,26 @@
 * [nginx 主配置文件 nginx.conf 学习](https://expoli.tech/articles/2019/07/27/1564656221533.html)
 * [A Quick Guide to Using the MySQL Yum Repository](https://expoli.tech/articles/2019/07/27/1564656222094.html)
 * [INSTALL CLAMAV ON CENTOS 7](https://expoli.tech/articles/2019/07/27/1564656222498.html)
+* [rsync 工具备份客户端配置](https://expoli.tech/articles/2018/11/18/1564656235627.html)
 * [Nginx静态服务配置--深入理解root与alias指令](https://expoli.tech/articles/2019/07/28/1564656219448.html)
 * [resolv.conf理解](https://expoli.tech/articles/2019/07/27/1564656218143.html)
-* [rsync 工具备份客户端配置](https://expoli.tech/articles/2018/11/18/1564656235627.html)
 * [第一次计算机网络实验报告](https://expoli.tech/articles/2019/03/22/1564656237598.html)
 * [为 Openwrt 添加温度显示功能](https://expoli.tech/articles/2019/03/22/1564656238463.html)
 * [Arch 优秀衍生版 manjaro 设置国内源](https://expoli.tech/articles/2018/04/29/1564656227925.html)
 * [NextCloud 通过不被信任的域名访问](https://expoli.tech/articles/2019/07/29/1564656219723.html)
-* [2019-07-27-nginx+wordpress-docker镜像获取真实IP](https://expoli.tech/articles/2019/07/27/1564656217457.html)
 * [第三次计算机网络实验报告](https://expoli.tech/articles/2019/04/15/1564656238929.html)
-* [Archlinux开启ssh服务以使用终端登录](https://expoli.tech/articles/2018/04/29/1564656227712.html)
+* [2019-07-27-nginx+wordpress-docker镜像获取真实IP](https://expoli.tech/articles/2019/07/27/1564656217457.html)
 * [2019-07-27-一些常用的Sql语句](https://expoli.tech/articles/2019/07/27/1564656218398.html)
-* [总结之——CentOS7 yum 安装 PHP 7.0, 7.1 & 7.2](https://expoli.tech/articles/2019/07/26/1564656215136.html)
+* [Archlinux开启ssh服务以使用终端登录](https://expoli.tech/articles/2018/04/29/1564656227712.html)
 * [第四次计算机网络实验](https://expoli.tech/articles/2019/04/15/1564656239121.html)
+* [总结之——CentOS7 yum 安装 PHP 7.0, 7.1 & 7.2](https://expoli.tech/articles/2019/07/26/1564656215136.html)
+* [第五次计算机网络实验](https://expoli.tech/articles/2019/04/17/1564656239324.html)
 * [nginx 设置目录访问权限](https://expoli.tech/articles/2018/04/16/1564656224308.html)
 * [2019-07-26-docker的安装介绍](https://expoli.tech/articles/2019/07/26/1564656214175.html)
-* [树莓派3一键安装 Arch Linux 脚本](https://expoli.tech/articles/2019/07/27/1564656217107.html)
 
 ### 热议
 
 * [第二次计算机网络实验报告(待完善)](https://expoli.tech/articles/2019/04/15/1564656238673.html)
-* [第五次计算机网络实验](https://expoli.tech/articles/2019/04/17/1564656239324.html)
 * [手动进行 Ubuntu 版本升级](https://expoli.tech/articles/2019/03/22/1564656238079.html)
 * [Openwrt X86（32位）编译安装笔记](https://expoli.tech/articles/2019/03/14/1564656236948.html)
 * [Ubuntu Possible missing firmware error](https://expoli.tech/articles/2019/03/22/1564656237880.html)
@@ -76,6 +75,7 @@
 * [怎样更改Linux的文件权限](https://expoli.tech/articles/2018/04/27/1564656225825.html)
 * [安装 Centos 7 时刚引导成功、就报 python3 错误的解决方案](https://expoli.tech/articles/2018/04/20/1564656224983.html)
 * [Arch 安装小狼毫中文输入法](https://expoli.tech/articles/2018/04/29/1564656227300.html)
+* [Ubuntu 安装小狼豪中文输入法](https://expoli.tech/articles/2018/04/24/1564656225523.html)
 
 ---
 
