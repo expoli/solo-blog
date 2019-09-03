@@ -37,8 +37,8 @@
 * [rsync 工具备份客户端配置](https://expoli.tech/articles/2018/11/18/1564656235627.html)
 * [第一次计算机网络实验报告](https://expoli.tech/articles/2019/03/22/1564656237598.html)
 * [nginx 主配置文件 nginx.conf 学习](https://expoli.tech/articles/2019/07/27/1564656221533.html)
-* [A Quick Guide to Using the MySQL Yum Repository](https://expoli.tech/articles/2019/07/27/1564656222094.html)
 * [为 Openwrt 添加温度显示功能](https://expoli.tech/articles/2019/03/22/1564656238463.html)
+* [A Quick Guide to Using the MySQL Yum Repository](https://expoli.tech/articles/2019/07/27/1564656222094.html)
 * [INSTALL CLAMAV ON CENTOS 7](https://expoli.tech/articles/2019/07/27/1564656222498.html)
 * [Nginx静态服务配置--深入理解root与alias指令](https://expoli.tech/articles/2019/07/28/1564656219448.html)
 * [resolv.conf理解](https://expoli.tech/articles/2019/07/27/1564656218143.html)
@@ -49,10 +49,10 @@
 * [openwrt 安装 zabbix-agent](https://expoli.tech/articles/2019/07/30/1564656214475.html)
 * [2019-07-27-nginx+wordpress-docker镜像获取真实IP](https://expoli.tech/articles/2019/07/27/1564656217457.html)
 * [2019-07-27-一些常用的Sql语句](https://expoli.tech/articles/2019/07/27/1564656218398.html)
-* [Archlinux开启ssh服务以使用终端登录](https://expoli.tech/articles/2018/04/29/1564656227712.html)
 * [第四次计算机网络实验](https://expoli.tech/articles/2019/04/15/1564656239121.html)
-* [nginx 设置目录访问权限](https://expoli.tech/articles/2018/04/16/1564656224308.html)
+* [Archlinux开启ssh服务以使用终端登录](https://expoli.tech/articles/2018/04/29/1564656227712.html)
 * [在 centos 上安装 zabbix-agent](https://expoli.tech/articles/2019/07/30/1564656213661.html)
+* [nginx 设置目录访问权限](https://expoli.tech/articles/2018/04/16/1564656224308.html)
 
 ### 热议
 
