@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://expoli.tech/my-github-repos)
 * [糖醋鱼的小破站的公告（持续更新）](https://expoli.tech/articles/2019/09/03/1567506201318.html)
 * [Solo(3.6.4) 升级到 的最新的 docker 镜像所遇到的问题](https://expoli.tech/articles/2019/09/03/1567506020443.html)
 * [saltstack项目实战-haproxy](https://expoli.tech/articles/2019/08/30/1567171614602.html)
@@ -29,7 +30,6 @@
 * [使用 docker-compose 编排 zabbix-server](https://expoli.tech/articles/2019/08/01/1564656221752.html)
 * [2019-07-31-总结](https://expoli.tech/articles/2019/07/30/1564656221252.html)
 * [WordPress上传文件类型限制解决办法](https://expoli.tech/articles/2019/07/30/1564656221047.html)
-* [zabbix 监控 nginx、TCP 状态](https://expoli.tech/articles/2019/07/30/1564656220810.html)
 
 ### 热门
 
