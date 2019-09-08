@@ -25,11 +25,11 @@
 * [使用 docker-compose 启动 solo（一键式）](https://expoli.tech/articles/2019/08/02/1564718521702.html)
 * [服务器备份脚本---每天运行版本](https://expoli.tech/articles/2019/08/02/1564714960295.html)
 * [服务器备份脚本---每周运行版本](https://expoli.tech/articles/2019/08/02/1564714959469.html)
-* [我在 GitHub 上的开源项目](https://expoli.tech/my-github-repos)
 * [关于我](https://expoli.tech/articles/2019/08/01/1564714954727.html)
 * [使用 docker-compose 编排 zabbix-server](https://expoli.tech/articles/2019/08/01/1564656221752.html)
 * [2019-07-31-总结](https://expoli.tech/articles/2019/07/30/1564656221252.html)
 * [WordPress上传文件类型限制解决办法](https://expoli.tech/articles/2019/07/30/1564656221047.html)
+* [zabbix 监控 nginx、TCP 状态](https://expoli.tech/articles/2019/07/30/1564656220810.html)
 
 ### 热门
 
