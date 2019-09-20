@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [centos7 升级openssh到最新版本（openssh-8.0p1）](https://expoli.tech/articles/2019/09/20/1568940279186.html)
 * [面试复盘学习之——进程和线程的区别与联系](https://expoli.tech/articles/2019/09/16/1568643397046.html)
 * [win10 wsl1 转换为 wsl2 的方法及实际使用案例](https://expoli.tech/articles/2019/09/16/1568613852218.html)
 * [实用工具集锦（持续更新）](https://expoli.tech/articles/2019/09/16/1568602422372.html)
@@ -29,7 +30,6 @@
 * [使用 docker-compose 启动 solo（一键式）](https://expoli.tech/articles/2019/08/02/1564718521702.html)
 * [服务器备份脚本---每天运行版本](https://expoli.tech/articles/2019/08/02/1564714960295.html)
 * [服务器备份脚本---每周运行版本](https://expoli.tech/articles/2019/08/02/1564714959469.html)
-* [关于我](https://expoli.tech/articles/2019/08/01/1564714954727.html)
 
 ### 热门
 
@@ -46,13 +46,13 @@
 * [nginx 主配置文件 nginx.conf 学习](https://expoli.tech/articles/2019/07/27/1564656221533.html)
 * [INSTALL CLAMAV ON CENTOS 7](https://expoli.tech/articles/2019/07/27/1564656222498.html)
 * [NextCloud 通过不被信任的域名访问](https://expoli.tech/articles/2019/07/29/1564656219723.html)
-* [Nginx静态服务配置--深入理解root与alias指令](https://expoli.tech/articles/2019/07/28/1564656219448.html)
 * [Windows docker Errror mkdir /host_mnt/ file exists](https://expoli.tech/articles/2019/07/27/1564656215566.html)
+* [Nginx静态服务配置--深入理解root与alias指令](https://expoli.tech/articles/2019/07/28/1564656219448.html)
 * [A Quick Guide to Using the MySQL Yum Repository](https://expoli.tech/articles/2019/07/27/1564656222094.html)
 * [第四次计算机网络实验](https://expoli.tech/articles/2019/04/15/1564656239121.html)
 * [WordPress上传文件类型限制解决办法](https://expoli.tech/articles/2019/07/30/1564656221047.html)
+* [关于我](https://expoli.tech/articles/2019/08/01/1564714954727.html)
 * [Arch 优秀衍生版 manjaro 设置国内源](https://expoli.tech/articles/2018/04/29/1564656227925.html)
-* [2019-07-27-nginx+wordpress-docker镜像获取真实IP](https://expoli.tech/articles/2019/07/27/1564656217457.html)
 
 ### 热议
 
