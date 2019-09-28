@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [中信银行信息技术岗面试问题总结](https://expoli.tech/articles/2019/09/27/1569576921594.html)
 * [Docker 学习第二部分——Containers（容器）](https://expoli.tech/articles/2019/09/22/1569142374417.html)
 * [Docker 学习第一部分——Orientation and setup](https://expoli.tech/articles/2019/09/22/1569138739065.html)
 * [Docker Compose file structure and examples](https://expoli.tech/articles/2019/09/22/1569134417091.html)
@@ -29,7 +30,6 @@
 * [持续代码质量管理-Sonar部署](https://expoli.tech/articles/2019/08/18/1566110413790.html)
 * [自动化部署学习之——自动化部署加回滚脚本](https://expoli.tech/articles/2019/08/18/1566110347365.html)
 * [自动化部署学习之——自动化部署流程设计](https://expoli.tech/articles/2019/08/18/1566110249789.html)
-* [自动化部署学习之——自动化部署概述](https://expoli.tech/articles/2019/08/18/1566110182025.html)
 
 ### 热门
 
