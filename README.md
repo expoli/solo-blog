@@ -51,8 +51,8 @@
 * [第四次计算机网络实验](https://expoli.tech/articles/2019/04/15/1564656239121.html)
 * [INSTALL CLAMAV ON CENTOS 7](https://expoli.tech/articles/2019/07/27/1564656222498.html)
 * [WordPress上传文件类型限制解决办法](https://expoli.tech/articles/2019/07/30/1564656221047.html)
-* [Nginx静态服务配置--深入理解root与alias指令](https://expoli.tech/articles/2019/07/28/1564656219448.html)
 * [服务器备份脚本---每周运行版本](https://expoli.tech/articles/2019/08/02/1564714959469.html)
+* [Nginx静态服务配置--深入理解root与alias指令](https://expoli.tech/articles/2019/07/28/1564656219448.html)
 
 ### 热议
 
