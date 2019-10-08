@@ -39,24 +39,23 @@
 * [rsync 工具备份客户端配置](https://expoli.tech/articles/2018/11/18/1564656235627.html)
 * [为 Openwrt 添加温度显示功能](https://expoli.tech/articles/2019/03/22/1564656238463.html)
 * [第一次计算机网络实验报告](https://expoli.tech/articles/2019/03/22/1564656237598.html)
-* [修改 docker php 镜像增加可上传文件大小](https://expoli.tech/articles/2019/07/30/1564656220499.html)
 * [取消 openwrt 刷固件后强制 https 后台访问](https://expoli.tech/articles/2019/07/30/1564656220231.html)
+* [修改 docker php 镜像增加可上传文件大小](https://expoli.tech/articles/2019/07/30/1564656220499.html)
 * [openwrt 安装 zabbix-agent](https://expoli.tech/articles/2019/07/30/1564656214475.html)
 * [Windows docker Errror mkdir /host_mnt/ file exists](https://expoli.tech/articles/2019/07/27/1564656215566.html)
 * [第三次计算机网络实验报告](https://expoli.tech/articles/2019/04/15/1564656238929.html)
-* [resolv.conf理解](https://expoli.tech/articles/2019/07/27/1564656218143.html)
 * [NextCloud 通过不被信任的域名访问](https://expoli.tech/articles/2019/07/29/1564656219723.html)
+* [resolv.conf理解](https://expoli.tech/articles/2019/07/27/1564656218143.html)
 * [nginx 主配置文件 nginx.conf 学习](https://expoli.tech/articles/2019/07/27/1564656221533.html)
 * [Windows 开机自启动特定虚拟机](https://expoli.tech/articles/2019/08/15/1565860731902.html)
 * [INSTALL CLAMAV ON CENTOS 7](https://expoli.tech/articles/2019/07/27/1564656222498.html)
 * [WordPress上传文件类型限制解决办法](https://expoli.tech/articles/2019/07/30/1564656221047.html)
 * [第四次计算机网络实验](https://expoli.tech/articles/2019/04/15/1564656239121.html)
 * [服务器备份脚本---每周运行版本](https://expoli.tech/articles/2019/08/02/1564714959469.html)
-* [Nginx静态服务配置--深入理解root与alias指令](https://expoli.tech/articles/2019/07/28/1564656219448.html)
+* [关于我](https://expoli.tech/articles/2019/08/01/1564714954727.html)
 
 ### 热议
 
-* [关于我](https://expoli.tech/articles/2019/08/01/1564714954727.html)
 * [第二次计算机网络实验报告(待完善)](https://expoli.tech/articles/2019/04/15/1564656238673.html)
 * [第五次计算机网络实验](https://expoli.tech/articles/2019/04/17/1564656239324.html)
 * [手动进行 Ubuntu 版本升级](https://expoli.tech/articles/2019/03/22/1564656238079.html)
@@ -76,6 +75,7 @@
 * [Linux LS 指令介绍](https://expoli.tech/articles/2018/04/27/1564656226697.html)
 * [给本子安装 manjaro 出现无法关机的解决办法](https://expoli.tech/articles/2018/04/29/1564656228192.html)
 * [Linux 分区方案介绍](https://expoli.tech/articles/2018/04/27/1564656226278.html)
+* [怎样更改Linux的文件权限](https://expoli.tech/articles/2018/04/27/1564656225825.html)
 
 ---
 
