@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Docker 学习第三部分——Services（服务）](https://expoli.tech/articles/2019/10/08/1570538552570.html)
 * [中信银行信息技术岗面试问题总结](https://expoli.tech/articles/2019/09/27/1569576921594.html)
 * [Docker 学习第二部分——Containers（容器）](https://expoli.tech/articles/2019/09/22/1569142374417.html)
 * [Docker 学习第一部分——Orientation and setup](https://expoli.tech/articles/2019/09/22/1569138739065.html)
@@ -29,15 +30,14 @@
 * [持续集成之Jenkins安装部署](https://expoli.tech/articles/2019/08/18/1566110465770.html)
 * [持续代码质量管理-Sonar部署](https://expoli.tech/articles/2019/08/18/1566110413790.html)
 * [自动化部署学习之——自动化部署加回滚脚本](https://expoli.tech/articles/2019/08/18/1566110347365.html)
-* [自动化部署学习之——自动化部署流程设计](https://expoli.tech/articles/2019/08/18/1566110249789.html)
 
 ### 热门
 
 * [郑州大学校园网使用指南](https://expoli.tech/articles/2018/10/13/1564656231465.html)
 * [使用 docker-compose 编排 zabbix-server](https://expoli.tech/articles/2019/08/01/1564656221752.html)
 * [使用 docker-compose 启动 solo（一键式）](https://expoli.tech/articles/2019/08/02/1564718521702.html)
-* [rsync 工具备份客户端配置](https://expoli.tech/articles/2018/11/18/1564656235627.html)
 * [为 Openwrt 添加温度显示功能](https://expoli.tech/articles/2019/03/22/1564656238463.html)
+* [rsync 工具备份客户端配置](https://expoli.tech/articles/2018/11/18/1564656235627.html)
 * [第一次计算机网络实验报告](https://expoli.tech/articles/2019/03/22/1564656237598.html)
 * [取消 openwrt 刷固件后强制 https 后台访问](https://expoli.tech/articles/2019/07/30/1564656220231.html)
 * [修改 docker php 镜像增加可上传文件大小](https://expoli.tech/articles/2019/07/30/1564656220499.html)
