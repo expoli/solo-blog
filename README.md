@@ -5,7 +5,7 @@
 <h4 align="center">🐟生成长记</h4>
 <p align="center"><a title="糖醋鱼的小破站" target="_blank" href="https://github.com/expoli/solo-blog"><img src="https://img.shields.io/github/last-commit/expoli/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/expoli/solo-blog"><img src="https://img.shields.io/github/repo-size/expoli/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.6-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/expoli/solo-blog.svg"></a></p>
 
 ### 最新
@@ -37,11 +37,11 @@
 * [郑州大学校园网使用指南](https://expoli.tech/articles/2018/10/13/1564656231465.html)
 * [使用 docker-compose 编排 zabbix-server](https://expoli.tech/articles/2019/08/01/1564656221752.html)
 * [使用 docker-compose 启动 solo（一键式）](https://expoli.tech/articles/2019/08/02/1564718521702.html)
-* [取消 openwrt 刷固件后强制 https 后台访问](https://expoli.tech/articles/2019/07/30/1564656220231.html)
 * [修改 docker php 镜像增加可上传文件大小](https://expoli.tech/articles/2019/07/30/1564656220499.html)
+* [取消 openwrt 刷固件后强制 https 后台访问](https://expoli.tech/articles/2019/07/30/1564656220231.html)
 * [第一次计算机网络实验报告](https://expoli.tech/articles/2019/03/22/1564656237598.html)
-* [rsync 工具备份客户端配置](https://expoli.tech/articles/2018/11/18/1564656235627.html)
 * [openwrt 安装 zabbix-agent](https://expoli.tech/articles/2019/07/30/1564656214475.html)
+* [rsync 工具备份客户端配置](https://expoli.tech/articles/2018/11/18/1564656235627.html)
 * [Windows docker Errror mkdir /host_mnt/ file exists](https://expoli.tech/articles/2019/07/27/1564656215566.html)
 * [NextCloud 通过不被信任的域名访问](https://expoli.tech/articles/2019/07/29/1564656219723.html)
 * [第三次计算机网络实验报告](https://expoli.tech/articles/2019/04/15/1564656238929.html)
@@ -51,8 +51,8 @@
 * [nginx 主配置文件 nginx.conf 学习](https://expoli.tech/articles/2019/07/27/1564656221533.html)
 * [Windows 开机自启动特定虚拟机](https://expoli.tech/articles/2019/08/15/1565860731902.html)
 * [INSTALL CLAMAV ON CENTOS 7](https://expoli.tech/articles/2019/07/27/1564656222498.html)
-* [Arch 优秀衍生版 manjaro 设置国内源](https://expoli.tech/articles/2018/04/29/1564656227925.html)
 * [关于我](https://expoli.tech/articles/2019/08/01/1564714954727.html)
+* [Arch 优秀衍生版 manjaro 设置国内源](https://expoli.tech/articles/2018/04/29/1564656227925.html)
 
 ### 热议
 
