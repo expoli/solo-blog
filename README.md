@@ -1,4 +1,4 @@
-<p align="center"><img alt="糖醋鱼的小破站" src="https://expoli.tech/KodExplorer/index.php?share/fileProxy&user=1&sid=IjC7YV8d"></p><h2 align="center">
+<p align="center"><img alt="糖醋鱼的小破站" src="http://tc.expoli.tech/images/2019/09/08/favicon.png"></p><h2 align="center">
 糖醋鱼的小破站
 </h2>
 
