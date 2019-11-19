@@ -1,4 +1,4 @@
-<p align="center"><img alt="糖醋鱼的小破站" src="http://tc.expoli.tech/images/2019/09/08/favicon.png"></p><h2 align="center">
+<p align="center"><img alt="糖醋鱼的小破站" src="https://expoli.tech/KodExplorer/index.php?share/fileDownload&user=1&sid=IjC7YV8d"></p><h2 align="center">
 糖醋鱼的小破站
 </h2>
 
@@ -51,8 +51,8 @@
 * [服务器备份脚本---每周运行版本](https://expoli.tech/articles/2019/08/02/1564714959469.html)
 * [resolv.conf理解](https://expoli.tech/articles/2019/07/27/1564656218143.html)
 * [Windows 开机自启动特定虚拟机](https://expoli.tech/articles/2019/08/15/1565860731902.html)
-* [nginx 主配置文件 nginx.conf 学习](https://expoli.tech/articles/2019/07/27/1564656221533.html)
 * [INSTALL CLAMAV ON CENTOS 7](https://expoli.tech/articles/2019/07/27/1564656222498.html)
+* [nginx 主配置文件 nginx.conf 学习](https://expoli.tech/articles/2019/07/27/1564656221533.html)
 
 ### 热议
 
