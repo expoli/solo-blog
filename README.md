@@ -34,8 +34,8 @@
 ### 热门
 
 * [为 Openwrt 添加温度显示功能](https://expoli.tech/articles/2019/03/22/1564656238463.html)
-* [郑州大学校园网使用指南](https://expoli.tech/articles/2018/10/13/1564656231465.html)
 * [使用 docker-compose 编排 zabbix-server](https://expoli.tech/articles/2019/08/01/1564656221752.html)
+* [郑州大学校园网使用指南](https://expoli.tech/articles/2018/10/13/1564656231465.html)
 * [使用 docker-compose 启动 solo（一键式）](https://expoli.tech/articles/2019/08/02/1564718521702.html)
 * [Windows docker Errror mkdir /host_mnt/ file exists](https://expoli.tech/articles/2019/07/27/1564656215566.html)
 * [openwrt 安装 zabbix-agent](https://expoli.tech/articles/2019/07/30/1564656214475.html)
@@ -51,12 +51,11 @@
 * [resolv.conf理解](https://expoli.tech/articles/2019/07/27/1564656218143.html)
 * [服务器备份脚本---每周运行版本](https://expoli.tech/articles/2019/08/02/1564714959469.html)
 * [Windows 开机自启动特定虚拟机](https://expoli.tech/articles/2019/08/15/1565860731902.html)
+* [关于我](https://expoli.tech/articles/2019/08/01/1564714954727.html)
 * [INSTALL CLAMAV ON CENTOS 7](https://expoli.tech/articles/2019/07/27/1564656222498.html)
-* [nginx 主配置文件 nginx.conf 学习](https://expoli.tech/articles/2019/07/27/1564656221533.html)
 
 ### 热议
 
-* [关于我](https://expoli.tech/articles/2019/08/01/1564714954727.html)
 * [第二次计算机网络实验报告(待完善)](https://expoli.tech/articles/2019/04/15/1564656238673.html)
 * [第五次计算机网络实验](https://expoli.tech/articles/2019/04/17/1564656239324.html)
 * [第四次计算机网络实验](https://expoli.tech/articles/2019/04/15/1564656239121.html)
@@ -76,6 +75,7 @@
 * [给本子安装 manjaro 出现无法关机的解决办法](https://expoli.tech/articles/2018/04/29/1564656228192.html)
 * [Linux 分区方案介绍](https://expoli.tech/articles/2018/04/27/1564656226278.html)
 * [怎样更改Linux的文件权限](https://expoli.tech/articles/2018/04/27/1564656225825.html)
+* [安装 Centos 7 时刚引导成功、就报 python3 错误的解决方案](https://expoli.tech/articles/2018/04/20/1564656224983.html)
 
 ---
 
