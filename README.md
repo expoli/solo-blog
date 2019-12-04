@@ -47,11 +47,11 @@
 * [rsync 工具备份客户端配置](https://expoli.tech/articles/2018/11/18/1564656235627.html)
 * [WordPress上传文件类型限制解决办法](https://expoli.tech/articles/2019/07/30/1564656221047.html)
 * [Arch 优秀衍生版 manjaro 设置国内源](https://expoli.tech/articles/2018/04/29/1564656227925.html)
-* [第三次计算机网络实验报告](https://expoli.tech/articles/2019/04/15/1564656238929.html)
 * [zabbix 监控 nginx、TCP 状态](https://expoli.tech/articles/2019/07/30/1564656220810.html)
+* [第三次计算机网络实验报告](https://expoli.tech/articles/2019/04/15/1564656238929.html)
 * [关于我](https://expoli.tech/articles/2019/08/01/1564714954727.html)
-* [resolv.conf理解](https://expoli.tech/articles/2019/07/27/1564656218143.html)
 * [Windows 开机自启动特定虚拟机](https://expoli.tech/articles/2019/08/15/1565860731902.html)
+* [resolv.conf理解](https://expoli.tech/articles/2019/07/27/1564656218143.html)
 * [服务器备份脚本---每周运行版本](https://expoli.tech/articles/2019/08/02/1564714959469.html)
 
 ### 热议
