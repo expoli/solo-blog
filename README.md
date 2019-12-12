@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Markdown 简明语法手册](https://expoli.tech/articles/2019/12/11/1576073725667.html)
 * [Docker 学习第四部分——Swarms（集群） ](https://expoli.tech/articles/2019/10/08/1570541859251.html)
 * [Docker 学习第三部分——Services（服务）](https://expoli.tech/articles/2019/10/08/1570538552570.html)
 * [中信银行信息技术岗面试问题总结](https://expoli.tech/articles/2019/09/27/1569576921594.html)
@@ -29,7 +30,6 @@
 * [Jenkins实战-jenkins与gitlab集成（webhook)](https://expoli.tech/articles/2019/08/18/1566118515630.html)
 * [自动化部署学习之——sonar 与 jenkins 结合](https://expoli.tech/articles/2019/08/18/1566110631575.html)
 * [持续集成之Jenkins安装部署](https://expoli.tech/articles/2019/08/18/1566110465770.html)
-* [持续代码质量管理-Sonar部署](https://expoli.tech/articles/2019/08/18/1566110413790.html)
 
 ### 热门
 
@@ -47,12 +47,12 @@
 * [rsync 工具备份客户端配置](https://expoli.tech/articles/2018/11/18/1564656235627.html)
 * [WordPress上传文件类型限制解决办法](https://expoli.tech/articles/2019/07/30/1564656221047.html)
 * [zabbix 监控 nginx、TCP 状态](https://expoli.tech/articles/2019/07/30/1564656220810.html)
+* [持续代码质量管理-Sonar部署](https://expoli.tech/articles/2019/08/18/1566110413790.html)
 * [Arch 优秀衍生版 manjaro 设置国内源](https://expoli.tech/articles/2018/04/29/1564656227925.html)
 * [第三次计算机网络实验报告](https://expoli.tech/articles/2019/04/15/1564656238929.html)
 * [关于我](https://expoli.tech/articles/2019/08/01/1564714954727.html)
 * [nginx配置SSL时出现 ERR_SSL_PROTOCOL_ERROR](https://expoli.tech/articles/2019/02/22/1564656236681.html)
 * [resolv.conf理解](https://expoli.tech/articles/2019/07/27/1564656218143.html)
-* [Windows 开机自启动特定虚拟机](https://expoli.tech/articles/2019/08/15/1565860731902.html)
 
 ### 热议
 
